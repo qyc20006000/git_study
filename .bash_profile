@@ -1,0 +1,6 @@
+alias ..='cd ..'
+alias ...='cd ../..'
+alias lf='ls -lahtr --color=auto'
+alias reload='source ~/.bash_profile'
+alias ebash='vim ~/.bash_profile'
+alias xx='emacs -nw'
